@@ -1,0 +1,7 @@
+1636483008775	Delete element
+1636483290630	Rename method 'getUserById'
+1636484983850	Rename method 'getUserWithDepartment'
+1636485216210	Rename method 'findUserWithDepartment'
+1636485245339	Rename method 'findByUserWithDepartment'
+1636485548936	Rename method 'findUserWithDepartment'
+1636485927182	Rename type 'userRepository'
